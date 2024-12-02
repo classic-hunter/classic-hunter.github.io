@@ -1,49 +1,62 @@
-# Firelands
+# Firelands Hunter Tips
 
-## **Beth'tilac:** 🕷️
+![Firelands](./firelands.png)
 
-- There are 2 fluid points you can take in the SV branch that are purely non DPS: <Hunter vs Wild> for extra health // <Entrapment> for extra control // <Survival Tactics> for extra mobility // or you can go glass canon and take <Point of no Escape> for extra blasting.
-- You can use Raptor Strike on bloating spiders while soaking their explosion to get the 20% damage reduction (from the glyph).
-- Deterrence cancels the damage from the bloated's explosion. It does not cancels the damage from the puddles.
-- Master's Call works on the slow if you find yourself hit by a puddle.
-- For a better pet control on the soaking phase, just set it on the Cinderweb Drones.
+## **Beth'tilac** 🕷️
 
-## **Shannox:** 🐉
+- There are 2 flexible points that do not impact DPS:
+  - **Hunter vs. Wild**: Extra health.
+  - **Entrapment**: Extra control.
+  - **Survival Tactics**: Extra mobility.
+  - **Point of No Escape**: Extra blasting (glass cannon build).
+- Use **Raptor Strike** on bloating spiders while soaking their explosion to gain 20% damage reduction (from the glyph).
+- **Deterrence** cancels damage from bloated spider explosions but does not work against puddle damage.
+- Use **Master's Call** to counter the slow effect from puddles if you are caught.
+- For better pet control during the soaking phase, set your pet to attack **Cinderweb Drones**.
 
-- If you have to switch for MM, both Chimera Shot and Aimshot will work on Rageface. The ability has a 30sec cooldown, keep track of this timer.
-- Deterrence does not cancel the damage from the immolation trap.
+## **Shannox** 🐉
 
-## **Ryolith:** 🛡️
+- If switching to Marksmanship (MM), both **Chimera Shot** and **Aimed Shot** can break Rageface's stun. Keep track of their 30-second cooldown.
+- **Deterrence** does not negate damage from the immolation trap.
 
-- The boss has a huge hitbox and no grey zone, be aware of this if you have to dps their legs on downtimes.
-- The Liquid Obsidians are affected by your freezing trap. Easy LnL proc for you while keeping them out of reach of Ryolith.
-- The Fragments of Ryolith are also affected by your freezing trap.
+## **Ryolith** 🛡️
 
-## **Alysrazor:** 🐦
+- Ryolith has a large hitbox with no grey zones—be mindful when DPSing the legs during downtime.
+- Use **Freezing Trap** to control **Liquid Obsidians**, which also provides easy **LnL** procs while keeping them out of Ryolith's reach.
+- **Fragments of Ryolith** are also affected by your **Freezing Trap**.
 
-- Be the one placing Hunter's Mark on the boss to see easily on the minimap where the boss is while flying. A lesser option is to activate your elemental tracking.
-- Do not let your pet on Alisrazor during the flying phase, it will not be able to hit the boss most of the time.
-- Pick up 1 to 3 feathers after her second and third shedding to be able to cast cobra shots while moving without the need of Aspect of the Fox and benefit from a huge movement speed buff.
-- If you fly, your pet will despawn. It will automatically respawn once you touch the ground.
-- A moth (Ferocity pet) can be used to help silencing the adds if no pet buffs are needed.
-- Alysrazor has a grey zone, allowing you to fully dps it on the tornado phase and group with your raid on the ground phase.
-- During P4, the two casters are affected by your freezing traps if you want to fish a LnL proc.
+## **Alysrazor** 🐦
 
-## **Baleroc:** ⚔️
+- Use **Hunter's Mark** on the boss to make it easier to track on the minimap during the flying phase. Alternatively, activate **Elemental Tracking**.
+- Avoid letting your pet attack Alysrazor during her flying phase, as it will often miss.
+- Pick up 1–3 feathers after her second and third shedding to:
+  - Cast **Cobra Shot** while moving without using **Aspect of the Fox**.
+  - Gain a significant movement speed boost.
+- If you fly, your pet will despawn and respawn automatically once you land.
+- A moth (Ferocity pet) can be used to silence adds if no other pet buffs are required.
+- Alysrazor has a grey zone, enabling full DPS during the tornado phase and stacking in melee during the ground phase.
+- During Phase 4, the two casters are affected by your **Freezing Trap**, which can trigger an **LnL** proc.
 
-- Deterrence does not cancel the damage from soaking but the 30% damage reduction still applies.
+## **Baleroc** ⚔️
 
-## **Majordomo:** 🐈
+- **Deterrence** reduces damage taken from soaking by 30% but does not completely cancel it.
 
-- With good timming you can easily disengage the leap from his cat form.
-- If Majormodo leaps far from you during his cat form, tab to one of his clones during the downtime.
-- Deterrence does not cancel the damage of orbs, bombs or jumps, your stacks of **Concentration** will be reset if you are hit by those abilities.
+## **Majordomo Staghelm** 🐈
 
-## **Ragnaros:** 👩‍🚒
+- **Disengage** can be timed to avoid damage from his leap during cat form.
+- If Majordomo leaps far away, tab to one of his clones during the downtime for continued DPS.
+- **Deterrence** does not cancel damage from orbs, bombs, or leaps, and being hit will reset your **Concentration** stacks.
 
-- Ragnaros has a grey zone, allowing you to freely dps the boss while in melee range.
-- Deterrence entirely cancels the damage and the bump from Ragnaros' traps. You can take the traps while deterrence is on cooldown and disengage at the last second to avoid the fatal damage from the fall.
-- A wasp (ferocity pet) can bring a 2s stun on elementals during the hammer phase if you want a bit more of control.
-- You can Raptor Strike Ragnaros before the seed explosion to get the 20% damage reduction.
-- For the seeds, the best rotation  would be: pretrap > pool 100 focus before the seeds > Multishot > Multishot > Cobra Shot Ragnaros > Multishot. If you have the 4pT12, try to fish a proc for a free Multishot beforehand.
-- As a firefighter during the last phase, you can securely use Aspect of the Cheetah while extinguishing the fires. You won't take any damage during this phase.
+## **Ragnaros** 👩‍🚒
+
+- Ragnaros has a grey zone that allows melee-range DPS.
+- **Deterrence** negates both the damage and knockback from Ragnaros' traps. When **Deterrence** is on cooldown, use **Disengage** at the last second to avoid fatal fall damage.
+- A wasp (Ferocity pet) can provide a 2-second stun on elementals during the hammer phase for additional control.
+- Use **Raptor Strike** before the seed explosion for 20% damage reduction.
+- Seed handling rotation:
+  1. Pre-trap the seed spawn.
+  2. Pool 100 focus before the seeds land.
+  3. Use **Multishot** > **Multishot** > **Cobra Shot** on Ragnaros > **Multishot**.
+  4. If you have the 4-piece Tier 12 set bonus, try to fish for a proc for a free **Multishot** beforehand.
+- During the final phase, as a firefighter:
+  - Use **Aspect of the Cheetah** safely while extinguishing fires—you will not take damage during this phase.
